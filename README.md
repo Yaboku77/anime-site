@@ -2,5 +2,7 @@
 All your favourites are here...
 ---
 
-Tech Stack: TNT (Next.js 13 and Tailwind CSS and Typescript).
+A streaming platform with no ads and good performance.
+
+Tech Stack: TNT (Typescript, Next.js 13 and Tailwind CSS).
 
